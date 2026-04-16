@@ -1,6 +1,9 @@
  #ciclo Principal
+
 while True:
  
+   # dados de entrada
+
   sensor_porta = False
   sinal_comando = False
 
@@ -17,4 +20,6 @@ if not(sensor_porta ^ sinal_comando):
 
     validar = True
 
-else:   
+else:
+    
+    validar = False
