@@ -1,0 +1,5 @@
+Abrangência 
+ - Gestão documental
+ - Automatismos de tarefas
+ - Interface
+ - Monitorização de dados 
