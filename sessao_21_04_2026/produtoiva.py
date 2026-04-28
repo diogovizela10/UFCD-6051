@@ -2,12 +2,10 @@
 
 while True:
     #dados de entrada
+    
+ preco = 20
+ iva = 0.23
 
-    valorpedido = 2000
-    anos = 20
-    anos_de_prestacao = anos * 12
-    taxajuro = 1.23
-    valorprestacao = valorpedido/anos * taxajuro
+ total = preco + (preco * iva)
 
-    print ("O valor da prestação mensal é: ", valorprestacao, "euros")  
-
+ print(total)
