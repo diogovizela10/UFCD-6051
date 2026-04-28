@@ -8,4 +8,5 @@ while True:
 
  total = preco + (preco * iva)
 
- print(total)
+ "O produto custa", preco, "€ sem IVA e", total , "€ com IVA.")
+ 
