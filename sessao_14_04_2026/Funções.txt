@@ -1,0 +1,12 @@
+AND =  Ativa quando as 2 entradas estão ativas 
+
+OR = Pelo menos uma entrada tem que esta ativa para a saída estar ativa 
+
+NOR = Quando as 2 entradas estão negadas a saída esta ativa, basta 1 entrada estar ativa a saída vai estar desativada
+
+NAND= Quando as 2 entradas estão ativas fecha uma saída ou pelo menos uma das entradas não esta ativa
+
+XOR = A saída só liga quando há uma entrada exclusiva
+
+XNOR = A saída só liga quando as 2 entradas estão iguais
+
